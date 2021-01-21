@@ -1,1 +1,5 @@
-changes
+Initial Release
+
+- January 2021 Security Patch
+- Samsung Boot Animation
+- Stabillity Tested
