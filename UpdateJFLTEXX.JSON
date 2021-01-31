@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1612024450,
-      "filename": "JFLTEXX-OTA-20012021.zip",
+      "datetime": 1612088961,
+      "filename": "signed_ota-update.zip",
       "id": "LRX22C",
       "romtype": "unofficial",
       "size": 429936640,
-      "url": "https://www.googleapis.com/drive/v3/files/1gUnnFfz2o03Jrwyn6mzAx-YoqA83helV?alt=media&key=AIzaSyBI_4bnSZfKWUQJBs-FnAztoSpkuKqMq0k",
-      "version": "17.1"
+      "url": "https://www.googleapis.com/drive/v3/files/1rnjKT5EpcCZvjhfkObjzPjaS3Ga4NOH5?alt=media&key=AIzaSyBI_4bnSZfKWUQJBs-FnAztoSpkuKqMq0k",
+      "version": "17.1.31012021"
     }
   ]
 }
