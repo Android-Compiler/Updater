@@ -18,6 +18,7 @@ Proposed Additions;
 * Galaxy J5 (2015), J7 (2015)
 * Galaxy J5 (2016), J3 (2016)
 * Galaxy S4 (JFLTEXX), S5 (KTE)
+* Galaxy Tab 2, Tab S 10.4, Tab S 8.4
 
 Please note that whilst I will try to support these devices as stated above, I am only one person and therefore cannot provide any gurantees. If you intend to flash my ROMS alongside Open Gapps, I would recommend you use the Pico Variant as this minimises Google Telementry but still provides what is needed to access the play store, so you can download your desired apps.
 
