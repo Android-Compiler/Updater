@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1613315523,
+      "datetime": 1613387949,
       "filename": "signed_ota-update.zip",
       "id": "LRX22C",
       "romtype": "unofficial",
       "size": 430420896,
-      "url": "https://www.googleapis.com/drive/v3/files/1i7UWA7XX8QABw6AsxpxEq6cl9D0sewfP?alt=media&key=AIzaSyBI_4bnSZfKWUQJBs-FnAztoSpkuKqMq0k",
+      "url": "https://www.googleapis.com/drive/v3/files/1XqnLMIGCYnubk53lFZktANim5ebRdBkV?alt=media&key=AIzaSyBI_4bnSZfKWUQJBs-FnAztoSpkuKqMq0k",
       "version": "17.1"
     }
   ]
