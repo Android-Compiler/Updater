@@ -1,6 +1,6 @@
 Initial Release - 31/01/2021
 
-- January 2021 Security Patch
+- November 2021 Security Patch
 - Samsung Boot Animation
 - Stabillity Tested
 - OTA Support Implementation
