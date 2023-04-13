@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1609372800",
-      "filename": "lineage-17.1-20201231-UNOFFICIAL-hammerhead.zip",
+      "datetime": "1681391059",
+      "filename": "signed_ota_update.zip",
       "id": "d4f817c290d8d9891c1453ab2d0693ac",
       "romtype": "UNOFFICIAL",
-      "size": "457833713",
-      "url": "https://master.dl.sourceforge.net/project/hammerhead-lineageos/17.1/lineage-17.1-20201231-UNOFFICIAL-hammerhead.zip",
+      "size": "494282869",
+      "url": "",
       "version": "17.1"
     }
   ]
