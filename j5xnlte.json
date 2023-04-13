@@ -1,13 +1,11 @@
 {
-  "response": [
-    {
-      "datetime": "1681391059",
-      "filename": "signed_ota_update.zip",
-      "id": "d4f817c290d8d9891c1453ab2d0693ac",
-      "romtype": "UNOFFICIAL",
-      "size": "494282869",
-      "url": "",
+  "response": {
+      "datetime": 1681391059,
+      "filename": "lineage-17.1-20230413-UNOFFICIAL-j5xnlte.zip",
+      "id": "000000",
+      "romtype": "unofficial",
+      "size": 494282869,
+      "url": "https://github.com/Galaxy-J5-Unofficial-LineageOS-Sources/OTA-Updates/releases/download/OTA/lineage_T_j5xnlte-ota-eng.daviiid99.zip",
       "version": "17.1"
-    }
-  ]
+    }    
 }
